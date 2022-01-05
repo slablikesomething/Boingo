@@ -148,7 +148,7 @@ def main():
 
         winner_text = ""
         if red_health <= 0:
-            winner_text = "Poland Loses"
+            winner_text = "Poland Loses!"
 
         if yellow_health <= 0:
             winner_text = "Poland Loses, again"
